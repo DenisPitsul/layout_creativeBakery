@@ -1,0 +1,2 @@
+"use strict";let page=document.querySelector(".page"),switcher=document.querySelector(".theme-switcher");switcher.addEventListener("click",()=>{page.classList.contains("page--theme--pink")?(page.classList.remove("page--theme--pink"),switcher.classList.remove("theme-switcher--theme--pink")):(page.classList.add("page--theme--pink"),switcher.classList.add("theme-switcher--theme--pink"))});
+//# sourceMappingURL=layout_creativeBakery.3e8808cc.js.map
